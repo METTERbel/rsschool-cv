@@ -1,0 +1,33 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+header, main {
+    margin: 0 auto;
+    max-width: 1024px;
+}
+
+header img {
+    width: 150px;
+    height: 150px;
+}
+
+.logo {
+    float: left;
+    width: 150px;
+    height: 150px;
+}
+
+h1 {
+    text-align: center;
+    line-height: 150px;
+}
+
+h2 {
+    margin-bottom: 10px;
+}
+
+section {
+    margin: 25px;
+}
