@@ -35,5 +35,8 @@ HTML, CSS
 </ul>
 ```
 
+## Education
+Minsk Innovation University 2006-2012
+
 ## English
 My level is A1 but i trying to up it.
